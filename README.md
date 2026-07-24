@@ -8,7 +8,7 @@ The project demonstrates how IoT technology can be used to monitor factory condi
 
 ---
 
-## Features
+## Features 
 
 - Real-time monitoring
 - Industrial sensor integration
