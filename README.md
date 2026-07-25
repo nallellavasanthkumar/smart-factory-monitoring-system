@@ -47,4 +47,10 @@ The project demonstrates the application of IoT technologies for monitoring indu
 
 **Role:** IoT Intern
 
-**Intern:** Nallella Vasanth Kumar
+**Completed by:** Nallella Vasanth Kumar
+
+---
+
+## Disclaimer
+
+This repository contains project documentation completed during the Emertxe Virtual IoT Internship. It is shared for educational and portfolio purposes only.
