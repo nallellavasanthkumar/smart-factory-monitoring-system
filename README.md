@@ -2,15 +2,24 @@
 
 ## Overview
 
-The Smart Factory Monitoring System is an IoT-based industrial monitoring project developed during the **Emertxe Virtual IoT Internship**.
+The Smart Factory Monitoring System is an IoT-based industrial monitoring project completed during the **Emertxe Virtual IoT Internship**.
 
-The project demonstrates how IoT technology can be used to monitor factory conditions in real time using sensor data, helping improve industrial safety, efficiency, and automation.
+The project demonstrates the application of IoT technologies for monitoring industrial environments through sensor-based data collection and real-time monitoring concepts.
 
 ---
 
-## Features 
+## Project Objectives
 
-- Real-time monitoring
+- Understand Industrial IoT concepts.
+- Learn real-time factory monitoring techniques.
+- Explore sensor-based industrial automation.
+- Study industrial monitoring applications.
+
+---
+
+## Key Features
+
+- Real-time monitoring concept
 - Industrial sensor integration
 - IoT-based data collection
 - Factory environment monitoring
@@ -18,13 +27,13 @@ The project demonstrates how IoT technology can be used to monitor factory condi
 
 ---
 
-## Technologies Used
+## Technologies Covered
 
-- IoT
-- Embedded Systems
+- Internet of Things (IoT)
 - Sensors
 - Industrial Monitoring
 - Real-Time Data Monitoring
+- Embedded Systems Fundamentals
 
 ---
 
