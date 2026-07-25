@@ -47,8 +47,7 @@ The project demonstrates the application of IoT technologies for monitoring indu
 
 **Role:** IoT Intern
 
-**Completed by:** Nallella Vasanth Kumar
-
+Participant: Nallella Vasanth Kumar
 ---
 
 ## Disclaimer
