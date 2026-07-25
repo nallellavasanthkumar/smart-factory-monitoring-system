@@ -28,7 +28,7 @@ The project demonstrates how IoT technology can be used to monitor factory condi
 
 ---
 
-## Internship
+## Internship Information
 
 **Organization:** Emertxe Information Technologies
 
@@ -36,8 +36,6 @@ The project demonstrates how IoT technology can be used to monitor factory condi
 
 **Project:** Smart Factory Monitoring System
 
----
+**Role:** IoT Intern
 
-## Author
-
-**Nallella Vasanth Kumar**
+**Intern:** Nallella Vasanth Kumar
