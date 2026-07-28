@@ -55,3 +55,20 @@ Sensor data is converted into JSON format and published to the ThingsBoard telem
 ## MQTT Configuration
 
 Broker:
+
+
+Port:
+
+
+Telemetry Topic:
+
+
+Payload Format:
+
+```json
+{
+  "temperature": 28
+}
+Connected to ThingsBoard
+
+{"temperature":28}
