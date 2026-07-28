@@ -2,46 +2,19 @@
 
 ## Overview
 
-The Smart Factory Monitoring System is an IoT-based industrial monitoring project completed during the **Emertxe Virtual IoT Internship**.
+The Smart Factory Monitoring System is an IoT-based monitoring project developed during the **Emertxe Virtual IoT Internship**.
 
-The project demonstrates the application of IoT technologies for monitoring industrial environments through sensor-based data collection and real-time monitoring concepts.
+This project focuses on understanding Industrial IoT concepts through virtual learning, Arduino programming, MQTT communication, and cloud telemetry using ThingsBoard.
 
----
-
-## Project Objectives
-
-- Understand Industrial IoT concepts.
-- Learn real-time factory monitoring techniques.
-- Explore sensor-based industrial automation.
-- Study industrial monitoring applications.
+This repository contains the daily learning activities, sample programs, and documentation completed during the internship.
 
 ---
 
-## Key Features
-
-- Real-time monitoring concept
-- Industrial sensor integration
-- IoT-based data collection
-- Factory environment monitoring
-- Remote monitoring concept
-
----
-
-## Technologies Covered
-
-- Internet of Things (IoT)
-- Sensors
-- Industrial Monitoring
-- Real-Time Data Monitoring
-- Embedded Systems Fundamentals
-
----
-
-## Internship Information
+## Internship Details
 
 **Organization:** Emertxe Information Technologies
 
-**Internship:** Virtual IoT Internship
+**Program:** Virtual IoT Internship
 
 **Project:** Smart Factory Monitoring System
 
@@ -51,6 +24,37 @@ The project demonstrates the application of IoT technologies for monitoring indu
 
 ---
 
-## Disclaimer
+## Technologies Learned
 
-This repository contains project documentation completed during the Emertxe Virtual IoT Internship. It is shared for educational and portfolio purposes only.
+- Arduino Programming
+- Embedded C Fundamentals
+- Internet of Things (IoT)
+- MQTT Protocol
+- Ethernet Communication
+- ThingsBoard Cloud Platform
+- Sensor Data Monitoring
+- JSON Telemetry
+
+---
+
+## Learning Journey
+
+### Day 03 - LED Blink
+- Digital output control
+- LED interfacing basics
+- Arduino GPIO programming
+
+### Day 04 - Analog Read and Mapping
+- Reading analog sensor values
+- Serial communication
+- Value mapping concept
+
+### Day 05 - DHT22 Sensor and millis()
+- Temperature and humidity monitoring
+- Sensor data acquisition
+- Non-blocking timing using millis()
+
+### Day 06 - MQTT Communication
+- MQTT protocol basics
+- Ethernet communication
+- Publish and Subscribe concepts
