@@ -56,5 +56,15 @@ This repository contains the daily learning activities, sample programs, and doc
 
 ### Day 06 - MQTT Communication
 - MQTT protocol basics
+
+## Skills Learned
+- Embedded C
+- Arduino Programming
+- IoT Communication
+- MQTT Protocol
+- Cloud Telemetry
+
+## Final Outcome
+Built a basic IoT monitoring system capable of sending sensor data to cloud.
 - Ethernet communication
 - Publish and Subscribe concepts
